@@ -1,0 +1,83 @@
+.boxes{
+    
+    height: 450px;
+    width: 450px;
+    margin-left: 470px;
+    position: relative;
+    border-radius: 5px;
+}
+ #box1{
+    position: absolute;
+    height: 275px;
+    width: 275px;
+    background: #FFFA0F;
+background: linear-gradient(90deg, rgba(255, 250, 15, 1) 0%, rgba(224, 209, 0, 1) 100%, rgba(237, 219, 57, 1) 71%);
+    text-align: center;
+    margin: 90px 20px;
+    border-radius: 8px;
+    
+} 
+#box2{
+    position: absolute;
+    height: 125px;
+    width: 125px;
+    background: #FFFA0F;
+background: linear-gradient(90deg, rgba(255, 250, 15, 1) 0%, rgba(224, 209, 0, 1) 100%, rgba(237, 219, 57, 1) 71%);
+    text-align: center;
+    margin: 90px 330px;
+    border-radius: 8px;
+}
+#box3{
+    position: absolute;
+    height: 125px;
+    width: 125px;
+     background: #FFFA0F;
+background: linear-gradient(90deg, rgba(255, 250, 15, 1) 0%, rgba(224, 209, 0, 1) 100%, rgba(237, 219, 57, 1) 71%);
+    margin: 245px 330px;
+    border-radius: 8px;
+    box-shadow: black ;
+}
+.navv{
+    margin:20px 50px;
+    height: 45px;
+    width: 550px;
+    background-color: black;
+    margin-left: 430px;
+    border-radius: 50px;
+    position: relative;
+}
+ul{
+    position: absolute;
+    display: flex;  
+    margin-right: 100px;
+}
+li{
+    margin-right: 120px;
+}
+#col{
+    height: 22px;
+    width : 50px;
+    border-radius: 5px;
+    background: #FFFA0F;
+background: linear-gradient(90deg, rgba(255, 250, 15, 1) 0%, rgba(237, 222, 109, 1) 100%, rgba(237, 219, 57, 1) 71%);
+}
+h2{
+    position: absolute;
+    margin: 100px 50px;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#box2 h3{
+
+   position: absolute;
+    margin: 50px 20px;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#box3 h3{
+    
+   position: absolute;
+    margin: 50px 20px;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
